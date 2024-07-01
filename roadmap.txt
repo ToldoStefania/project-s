@@ -1,0 +1,16 @@
+    -------------------------------------------------
+    | IDEA: API Youtube V3 to get all the comments  |
+    -------------------------------------------------
+
+TO DO LIST:
+
+- ASK the user to input the link of the youtube link
+- Use regex to parse the string and get the youtube video ID from it
+- Use youtube API to get all the comments from it
+- Store the data into .xlsx file
+- Iterate through the comments and with nltk file analyze the semantic of all the comments and add score to another column
+- Use the likes number to modify the overall score
+- Write algorithm to save the score and giver results to user (min max etc...)
+
+possible idea:
+make graph over time comments and consents to see if there is a specific time where people where more happy or unhappy with the video
